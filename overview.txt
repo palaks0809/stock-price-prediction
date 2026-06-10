@@ -1,0 +1,14 @@
+The dataset (AAPL.CSV) has around 60 features. All of these features have something to
+offer for forecasting of the stock prices. Some tells us about the trend, some gives us a
+signal if the stock is overbought or oversold, some portrays the strength of the price trend.
+ Above analysis needs to be performed using various Data Exploration Techniques and
+provide the insights regarding the trend and various aspects (No time series analysis should
+be performed)
+ Data should be used for above exercise is given to you in CSV format which needs to
+imported and used throughout the exercise.
+ Steps to be performed:
+ Problem definition
+ Exploratory Data Analysis:
+ Data Preparation
+ Feature Selection
+ Data transformation
